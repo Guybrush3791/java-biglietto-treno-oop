@@ -1,0 +1,12 @@
+km: 10
+eta: 20
+prezzo: 2.31
+data: 2023-02-20
+flessibile: si'
+-----------------------
+km: 20
+eta: 20
+prezzo: 4.2
+data: 2022-12-22
+flessibile: no
+-----------------------
